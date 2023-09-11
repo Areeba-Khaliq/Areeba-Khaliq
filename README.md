@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on Linkedin:www.linkedin.com/in/areeba-khaliq Twitter:http://twitter.com/AreebaKhaliq7
+- 📫 How to reach me on Linkedin:www.linkedin.com/in/areeba-khaliq 
 - 
 
 
